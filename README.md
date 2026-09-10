@@ -17,3 +17,4 @@ Dashboard feito no Power BI para analisar uma carteira de ações.
 ![Dashboard](Dashboard/Gif/Gif_acoes.gif)
 
 Projeto desenvolvido durante meus estudos de Power BI no curso Formação Microsoft Power BI Profissional da Udemy.
+ 
